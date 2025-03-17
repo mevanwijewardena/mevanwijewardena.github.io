@@ -1,5 +1,5 @@
 ---
-title: "Teaching assiatant"
+title: "Teaching assistant"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
