@@ -1,10 +1,9 @@
 ---
-title: "Lecturer (On Contract)"
+title: "Lecturer (On Contract), June. 2021 - July 2022"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Moratuwa, Department of Electronic and Telecommunication Engineering"
-date: June. 2021 - July 2022
 location: "Moratuwa, Sri Lanka"
 ---
 
