@@ -3,7 +3,7 @@ title: "A Two-Player Resource-Sharing Game with Asymmetric Information"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper explores a two-player resource sharing game, where the players have assymmtric information regarding the rewards brought by the resources.'
+excerpt: 'This paper explores a two-player resource sharing game, where the players have asymmetric information regarding the rewards brought by the resources.'
 date: 2023-09-17
 venue: 'MDPI Games'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
