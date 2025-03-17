@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assiatant"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Southern California, Department of Electrical and Computer Engineering"
+date: Aug. 2023 - Present
+location: "Los Angeles, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+EE512 - Stochastic processes for financial engineering
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching assistant for instructor Prof. George Papavassilopoulos
