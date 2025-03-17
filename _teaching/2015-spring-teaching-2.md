@@ -8,6 +8,4 @@ date: Aug. 2023 - Present
 location: "Los Angeles, California"
 ---
 
-EE512 - Stochastic processes for financial engineering
-======
-Teaching assistant for instructor Prof. George Papavassilopoulos
+1. EE512 - Stochastic processes for financial engineering: Teaching assistant for instructor Prof. George Papavassilopoulos (Fall'23, '24, Spring' 25, '25)
