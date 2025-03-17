@@ -6,8 +6,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper investigates the exploitation of an intelligent reflecting surface (IRS) to communicate securely in a two-way network consisting of an untrusted user.'
 date: 2021-03-23
 venue: 'IEEE communications letters'
-slidesurl: 'http://mevanwijewardena.github.io/files/paper1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/abstract/document/9383283'
+slidesurl: 'http://mevanwijewardena.github.io/files/slides1.pdf'
+paperurl: 'http://mevanwijewardena.github.io/files/paper1.pdf'
 citation: 'M. Wijewardena, T. Samarasinghe, K. T. Hemachandra, S. Atapattu and J. S. Evans, "Physical Layer Security for Intelligent Reflecting Surface Assisted Two–Way Communications," in IEEE Communications Letters, vol. 25, no. 7, pp. 2156-2160, July 2021, doi: 10.1109/LCOMM.2021.3068102.'
 ---
 
