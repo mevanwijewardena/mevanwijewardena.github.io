@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This report explores a two-player resource sharing game, where the players have asymmetric information regarding the rewards brought by the resources..'
 date: 2023-09-18
 venue: 'arXiv preprint'
-paperurl: 'http://academicpages.github.io/files/paper4.pdf'
+paperurl: 'http://mevanwijewardena.github.io/files/paper4.pdf'
 citation: 'Wijewardena, M., & Neely, M. J. (2023). A Two-Player Resource-Sharing Game with Asymmetric Information. arXiv preprint arXiv:2306.08791.'
 ---
 
