@@ -11,7 +11,7 @@ Below are a list of graduate level courses I have taken.
 
 ## University of Southern California
 
-1. DSO 699- Bandit Algorithms and Reinforcement Learning
+1. DSO 699- Bandit Algorithms and Reinforcement Learning- Spring'25
 2. CSCI 678- Theoretical Machine Learning- Fall'24 
 3. EE 550- Data Networks- Spring'24 
 4. ISE 633- Large Scale Optimization and Machine Learning- Spring'24 
