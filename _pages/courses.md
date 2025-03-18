@@ -22,15 +22,15 @@ University of Southern California
 
 Online Courses
 
-1. Machine Learning - Stanford University, Coursera, [Certiificate](https://drive.google.com/file/d/19h71lw16i2eCFwYuoNs8WsX6uwF1V1aF/view?usp=sharing)
-2. Neural Networks and Deep Learning - Stanford University, Coursera [Certiificate](https://drive.google.com/file/d/1k34g3iO5PdMkYb0cHXkEsw-MS4IKS8q3/view?usp=sharing)
-3. Improving Deep Neural Networks - Stanford University, Coursera, [Certiificate](https://drive.google.com/file/d/1pYuNtfogJfEe3CWoZxTAZmua0VkhCqh2/view?usp=sharing)
-4. Sequence models - Stanford University, Coursera, [Certiificate](https://drive.google.com/file/d/1qEpxPyAsFieyIDchi1hcIy8p61vih4V4/view?usp=sharing)
-5. Probabilistic Graphical Models 1: Representation - Stanford University, Coursera, [Certiificate](https://drive.google.com/file/d/1WgEAlDWlMytk1zUIwWSFH8Nrj3BRjW1K/view?usp=sharing)
+1. Machine Learning - Stanford University, Coursera, [Certificate](https://drive.google.com/file/d/19h71lw16i2eCFwYuoNs8WsX6uwF1V1aF/view?usp=sharing)
+2. Neural Networks and Deep Learning - Stanford University, Coursera [Certificate](https://drive.google.com/file/d/1k34g3iO5PdMkYb0cHXkEsw-MS4IKS8q3/view?usp=sharing)
+3. Improving Deep Neural Networks - Stanford University, Coursera, [Certificate](https://drive.google.com/file/d/1pYuNtfogJfEe3CWoZxTAZmua0VkhCqh2/view?usp=sharing)
+4. Sequence models - Stanford University, Coursera, [Certificate](https://drive.google.com/file/d/1qEpxPyAsFieyIDchi1hcIy8p61vih4V4/view?usp=sharing)
+5. Probabilistic Graphical Models 1: Representation - Stanford University, Coursera, [Certificate](https://drive.google.com/file/d/1WgEAlDWlMytk1zUIwWSFH8Nrj3BRjW1K/view?usp=sharing)
 6. EE263 Introduction to Linear Dynamical Systems - Stanford University
 7. EE364A Convex Optimization 1 - Stanford University
 8. Classical Mechanics - Stanford University
-9. Introduction to Complex Analysis - Wesleyan University, Coursera, [Certiificate] (https://drive.google.com/file/d/1uSm8rrBBE1EnPPo5Jpat6natvwHzar2K/view?usp=sharing)
+9. Introduction to Complex Analysis - Wesleyan University, Coursera, [Certificate](https://drive.google.com/file/d/1uSm8rrBBE1EnPPo5Jpat6natvwHzar2K/view?usp=sharing)
 10. Bayesian Methods for Machine Learning (with Honours) - Higher School of Economics, Coursera, [Certiificate](https://drive.google.com/file/d/1aI9ECZ9XsFeo1JLdvZ_Rp6U_6ClZJ5on/view?usp=sharing)
 11. Macroeconomics - Khan Academy
 
