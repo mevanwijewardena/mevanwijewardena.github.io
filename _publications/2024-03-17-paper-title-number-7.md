@@ -3,7 +3,7 @@ title: "Sequence-to-short Sequence Learning with Attention Based Autoencoders fo
 collection: publications
 category: writeups
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This writup presents a novel attention based auto-encoder model for non-intrusive load monitoring.'
+excerpt: 'This write up presents a novel attention based auto-encoder model for non-intrusive load monitoring.'
 date: 2022-03-01
 paperurl: 'http://mevanwijewardena.github.io/files/paper7.pdf'
 citation: 'Wijewardena, M., Pathiranage, S., Nanyakkara, T., Rajapakshe, I. (2022). Sequence-to-short Sequence Learning with Attention Based Autoencoders for Non-Intrusive Load Monitoring.'
