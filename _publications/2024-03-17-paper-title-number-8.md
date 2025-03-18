@@ -9,6 +9,8 @@ paperurl: 'http://mevanwijewardena.github.io/files/paper8.pdf'
 citation: 'Wijewardena, M., (2023). Sub-Gaussian Random Variables, Tail Probability Bounds With Random Number of Samples.'
 ---
 
+## Abstract
+
 Bounding the tail probability of an average of a random number of samples of a collection of random variables has application in multi-armed bandit problems. 
 In this article, we will be summarizing a few results on this.
 
