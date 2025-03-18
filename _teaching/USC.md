@@ -1,7 +1,7 @@
 ---
-title: "Teaching assistant, Aug. 2023 - Present"
+title: "University of Southern California, Aug. 2023 - Present"
 collection: teaching
-type: "Graduate Course"
+type: "Teaching assistant"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Southern California, Department of Electrical and Computer Engineering"
 location: "Los Angeles, California"
