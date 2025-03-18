@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Below are a list of graduate level courses I have taken.
+Below is a list of graduate level courses I have taken.
 
 ## University of Southern California
 
