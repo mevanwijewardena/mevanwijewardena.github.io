@@ -11,14 +11,15 @@ Below are a list of graduate level courses I have taken.
 
 ## University of Southern California
 
-1. CSCI 678- Theoretical Machine Learning- Fall'24 
-2. EE 550- Data Networks- Spring'24 
-3. ISE 633- Large Scale Optimization and Machine Learning- Spring'24 
-4. EE 649- Stochastic Network Optimization and Adaptive Learning- Fall'23
-5. EE 503-Probability for Electrical and. Computer Engineers- Fall'22
-6. EE 510-Linear Algebra for Engineering- Fall'22
-7. EE 562-Random Processes in Engineering- Spring'23 
-8. Math 425b-Fundamental Concepts of Analysis- Spring'23
+1. DSO 699- Bandit Algorithms and Reinforcement Learning
+2. CSCI 678- Theoretical Machine Learning- Fall'24 
+3. EE 550- Data Networks- Spring'24 
+4. ISE 633- Large Scale Optimization and Machine Learning- Spring'24 
+5. EE 649- Stochastic Network Optimization and Adaptive Learning- Fall'23
+6. EE 503-Probability for Electrical and. Computer Engineers- Fall'22
+7. EE 510-Linear Algebra for Engineering- Fall'22
+8. EE 562-Random Processes in Engineering- Spring'23 
+9. Math 425b-Fundamental Concepts of Analysis- Spring'23
 
 ## Online Courses
 
