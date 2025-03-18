@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="wordwrap">My CV is</div>
+
+<!---
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -62,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
