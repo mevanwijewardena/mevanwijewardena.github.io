@@ -1,5 +1,5 @@
 ---
-title: "University of Moratuwa, June. 2021 - July 2022"
+title: "University of Moratuwa,Sri Lanka, June. 2021 - July 2022"
 collection: teaching
 type: "Lecture on Contract"
 permalink: /teaching/2014-spring-teaching-1
