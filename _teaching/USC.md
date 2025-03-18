@@ -1,5 +1,5 @@
 ---
-title: "University of Southern California, Aug. 2023 - Present"
+title: "University of Southern California, USA, Aug. 2023 - Present"
 collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/2015-spring-teaching-1
