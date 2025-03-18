@@ -9,7 +9,11 @@ paperurl: 'http://mevanwijewardena.github.io/files/paper9.pdf'
 citation: 'Wijewardena, M., (2023). Point-wise and Uniform Convergence of Fourier Series.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Abstract
+
+In this article, we explore the problems of point-wise and uniform Convergence of the Fourier
+Series, using the knowledge on the mean-square convergence of the Fourier series.
+
 
 
 
