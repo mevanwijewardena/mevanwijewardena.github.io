@@ -7,4 +7,4 @@ venue: "University of Southern California, Department of Electrical and Computer
 location: "Los Angeles, California"
 ---
 
-1. EE512 - Stochastic processes for financial engineering: Teaching assistant for instructor Prof. George Papavassilopoulos (Fall'23, '24, Spring' 25, '25)
+1. EE512 - Stochastic processes for financial engineering: Teaching assistant for instructor Prof. George Papavassilopoulos (Fall '23, '24, Spring '24, '25)
