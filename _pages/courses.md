@@ -9,7 +9,7 @@ author_profile: true
 
 Below are a list of graduate level courses I have taken.
 
-University of Southern California
+##University of Southern California
 
 1. CSCI 678- Theoretical Machine Learning- Fall'24 
 2. EE 550- Data Networks- Spring'24 
@@ -20,7 +20,7 @@ University of Southern California
 7. EE 562-Random Processes in Engineering- Spring'23 
 8. Math 425b-Fundamental Concepts of Analysis- Spring'23
 
-Online Courses
+##Online Courses
 
 1. Machine Learning - Stanford University, Coursera, [Certificate](http://mevanwijewardena.github.io/files/cert1.pdf)
 2. Neural Networks and Deep Learning - Stanford University, Coursera [Certificate](http://mevanwijewardena.github.io/files/cert2.pdf)
