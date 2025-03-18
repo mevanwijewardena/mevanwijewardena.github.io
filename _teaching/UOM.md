@@ -1,7 +1,7 @@
 ---
 title: "University of Moratuwa,Sri Lanka, June. 2021 - July 2022"
 collection: teaching
-type: "Lecture on Contract"
+type: "Lecturer on Contract"
 permalink: /teaching/UOM
 venue: "University of Moratuwa, Department of Electronic and Telecommunication Engineering"
 location: "Moratuwa, Sri Lanka"
