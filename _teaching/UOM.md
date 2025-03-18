@@ -7,7 +7,6 @@ venue: "University of Moratuwa, Department of Electronic and Telecommunication E
 location: "Moratuwa, Sri Lanka"
 ---
 
-
 1. EN2073 - Analog and Digital Communications: Teaching assistant for instructor Dr. Tharaka Samarasinghe (Fall' 21)
 2. EN2040 - Random Signals and Processes: Teaching assistant for instructor Dr. Tharaka Samarasinghe (Spring' 22)
 3. EN2053 - Communication Systems and Networks: Teaching assistant for instructors Prof. Ruwan Udayanga and Eng. Kithsiri Samarasinghe (Spring' 22).
