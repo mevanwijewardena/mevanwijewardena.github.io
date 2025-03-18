@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="wordwrap">My CV is</div>
+<div class="wordwrap">My <a href="http://mevanwijewardena.github.io/files/Mevan_CV">CV</a></div>
 
 <!---
 Education
