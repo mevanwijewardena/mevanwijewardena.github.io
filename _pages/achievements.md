@@ -11,11 +11,8 @@ Below is a list of my major achievements
 
 ## [International Mathematical Olympiad](http://www.imo-official.org/participant_r.aspx?id=20851)
 
-   1. Bronze medal - 2016
-	 2. Bronze medal - 2014
-   3. Bronze medal - 2013
-   4. Bronze medal - 2012
-   5. Participation - 2011
+   1. Bronze medals - 2016, 2014, 2013, 2012
+   2. Participation - 2011
 
 ## International Mathematics Competition for University Students
 
@@ -30,8 +27,7 @@ Below is a list of my major achievements
 ## Asia Pacific Mathematical Olympiad (APMO)
 
       1. [Silver medal](https://www.apmo-official.org/country_report/LKA/2016) - 2016 
-      2. Bronze medal - 2015
-      3. Bronze medal - 2014
+      2. Bronze medals - 2015, 2014
 
 ## Asian Physics Olympiad
 
@@ -39,7 +35,7 @@ Below is a list of my major achievements
 
 ## Sri Lanka Mathematical Olympiad (SLMO)
 
-       1. Gold medal - 2016, 2014, 2013, 2012
+       1. Gold medals - 2016, 2014, 2013, 2012
        2. Bronze medal - 2011
 
 ## Sri Lanka Physics Olympiad
