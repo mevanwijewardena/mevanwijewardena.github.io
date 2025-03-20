@@ -14,9 +14,11 @@ Below is a list of my major achievements
    1. Bronze medals - 2016, 2014, 2013, 2012
    2. Participation - 2011
 
+
 ## International Mathematics Competition for University Students
 
-      1. [Bronze medal](https://www.imc-math.org.uk/?year=2018&item=results) - 2018 
+   1. [Bronze medal](https://www.imc-math.org.uk/?year=2018&item=results) - 2018 
+
       
 ## International Mathematics Competition
 
