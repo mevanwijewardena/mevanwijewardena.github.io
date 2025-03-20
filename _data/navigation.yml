@@ -20,8 +20,11 @@ main:
   - title: "Courses"
     url: /courses/  
     
-  - title: "CV"
-    url: /cv/
+  - title: "Achievements"
+    url: /achievements/
 
+  - title: "Services"
+    url: /services/
+    
   - title: "Other Interests"
     url: /interests/
