@@ -56,14 +56,14 @@ Below is a list of my major achievements
 
 ## Google Code Jam
 
-   1. 2020 - Qualified for round 2, world rank - 2839, country rank - 2. [Certificate](https://drive.google.com/file/d/1Ljrs45WLHt5-eLeHJBYx3PeiQU-HTZmL/view?usp=sharing)
-   2. 2019 - Qualified for round 2, world rank - 1011, country rank - 2. [Certificate](https://drive.google.com/file/d/1i1BsVoK0wpJy_M60d231_DITbS5Bby9i/view?usp=sharing)
+   1. 2020 - Qualified for round 2, world rank - 2839, country rank - 2. [Certificate](http://mevanwijewardena.github.io/files/cert8.pdf)
+   2. 2019 - Qualified for round 2, world rank - 1011, country rank - 2. [Certificate](http://mevanwijewardena.github.io/files/cert9.pdf)
 		     
 ## Google Hash Code
 
-   1. 2021 - Team TeamName, world rank - 1879, country rank - 5. [Certificate](https://drive.google.com/file/d/1JFoeFxjSX9cD99mDuSnufXRmBJb9FAN-/view?usp=sharing)
-   2. 2020 - Team TeamName, world rank - 549, country rank - 3. [Certificate](https://drive.google.com/file/d/1VHArtvj_vvLVs90JV1lsIA8YfXs8nlqo/view?usp=sharing)
-   3. 2019 - Team TeamName, world rank - 1655, country rank - 2. [Certificate](https://drive.google.com/file/d/1V6jQEP3bW7anY5uMqYYOfqDdDjraiRAx/view?usp=sharing)
+   1. 2021 - Team TeamName, world rank - 1879, country rank - 5. [Certificate](http://mevanwijewardena.github.io/files/cert10.pdf)
+   2. 2020 - Team TeamName, world rank - 549, country rank - 3. [Certificate](http://mevanwijewardena.github.io/files/cert11.pdf)
+   3. 2019 - Team TeamName, world rank - 1655, country rank - 2. [Certificate](http://mevanwijewardena.github.io/files/cert12.pdf)
 	           
 
 ## Other Competitions
