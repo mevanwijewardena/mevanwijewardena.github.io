@@ -68,6 +68,6 @@ Below is a list of my major achievements
 
 ## Other Competitions
 
-   1. HackStat a data science hackathon organized by the Stat Circle of University of Colombo - 2018 - Team TeamName, second runners up
-   2. ACES coders an algorithmic programming competition organized by the Faculty of Engineering, University of Peradeniya - 2020 - Team TeamName, runners up
-   3. MoraXtreme an algorithmic programming competition organized by the Computer Society - IEEE University of Moratuwa Student Branch - 2017 -  Team TeamName, champions
+   1. HackStat 2018, a data science hackathon organized by the Stat Circle of University of Colombo - Team TeamName, second runners up
+   2. ACES coders 2020, an algorithmic programming competition organized by the Faculty of Engineering, University of Peradeniya - Team TeamName, runners up
+   3. MoraXtreme 2017, an algorithmic programming competition organized by the Computer Society, IEEE University of Moratuwa Student Branch - Team TeamName, champions
