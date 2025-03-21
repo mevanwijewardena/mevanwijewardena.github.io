@@ -6,8 +6,8 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper explores a two-player resource sharing game, where the players have asymmetric information regarding the rewards brought by the resources.'
 date: 2023-09-17
 venue: 'MDPI Games'
-slidesurl: 'http://mevanwijewardena.github.io/files/slides2.pdf'
-paperurl: 'http://mevanwijewardena.github.io/files/paper2.pdf'
+slidesurl: 'https://mevanwijewardena.github.io/files/slides2.pdf'
+paperurl: 'https://mevanwijewardena.github.io/files/paper2.pdf'
 citation: 'Wijewardena, M., & Neely, M. J. (2023). A Two-Player Resource-Sharing Game with Asymmetric Information. Games, 14(5), 61.'
 ---
 
