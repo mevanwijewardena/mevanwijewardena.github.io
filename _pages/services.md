@@ -6,11 +6,11 @@ author_profile: true
 ---
 ## Paper reviewing
 
-1. IEEE EMBS International Student Conference (Reviewer ID - R015).
+1. IEEE EMBS International Student Conference 2021(Reviewer ID - R015).
 
 ## Workshops
 
-1. Problem solving techniques workshop for YarlXtreme 1.0 (An algorithmic programming competition), a pre-Xtreme campaign organized by the IEEE Student Branch, University of Jaffna.
+1. Problem solving techniques workshop for YarlXtreme 1.0 in 2024 (An algorithmic programming competition), a pre-Xtreme campaign organized by the IEEE Student Branch, University of Jaffna.
 2. Algorithmic progrmming workshop for MoraXtreme 2021, the annual algorithmic programming competition organized by Computer Society - IEEE University of Moratuwa Student Branch.
 3. Digital signal processing stall for Expose 2019, an exhibition organized by the the Electronic Club (E-Club), University of Moratuwa, Sri Lanka.
 4. Robotics workshop for SLRC 2018, the annual robotics challenge organized by the Electronic Club (E-Club), University of Moratuwa.
