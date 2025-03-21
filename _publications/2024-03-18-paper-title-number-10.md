@@ -5,7 +5,7 @@ category: writeups
 permalink: /publication/2024-03-18-paper-title-number-10
 excerpt: 'This write up focusses on establshing the asymptotic connectiveity probability of cell partitioned  networks as a function of the user density. This was done as a part of the course project of the course EE550-Data networks'
 date: 2024-05-12
-paperurl: 'http://mevanwijewardena.github.io/files/paper10.pdf'
+paperurl: 'https://mevanwijewardena.github.io/files/paper10.pdf'
 citation: 'Tarzjani, F.D., Wijewardena, M., (2024). Asymptotic Behaviour of the Connection Probability of Cell Partitioned Networks.'
 ---
 
