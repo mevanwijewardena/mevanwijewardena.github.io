@@ -56,14 +56,14 @@ Below is a list of my major achievements
 
 ## Google Code Jam
 
-   1. 2020 - Qualified for round 2, world rank - 2839, country rank - 2. [Certificate](http://mevanwijewardena.github.io/files/cert8.pdf)
-   2. 2019 - Qualified for round 2, world rank - 1011, country rank - 2. [Certificate](http://mevanwijewardena.github.io/files/cert9.pdf)
+   1. 2020 - Qualified for round 2, world rank - 2839, country rank - 2. [Certificate](https://mevanwijewardena.github.io/files/cert8.pdf)
+   2. 2019 - Qualified for round 2, world rank - 1011, country rank - 2. [Certificate](https://mevanwijewardena.github.io/files/cert9.pdf)
 		     
 ## Google Hash Code
 
-   1. 2021 - Team TeamName, world rank - 1879, country rank - 5. [Certificate](http://mevanwijewardena.github.io/files/cert10.pdf)
-   2. 2020 - Team TeamName, world rank - 549, country rank - 3. [Certificate](http://mevanwijewardena.github.io/files/cert11.pdf)
-   3. 2019 - Team TeamName, world rank - 1655, country rank - 2. [Certificate](http://mevanwijewardena.github.io/files/cert12.pdf)
+   1. 2021 - Team TeamName, world rank - 1879, country rank - 5. [Certificate](https://mevanwijewardena.github.io/files/cert10.pdf)
+   2. 2020 - Team TeamName, world rank - 549, country rank - 3. [Certificate](https://mevanwijewardena.github.io/files/cert11.pdf)
+   3. 2019 - Team TeamName, world rank - 1655, country rank - 2. [Certificate](https://mevanwijewardena.github.io/files/cert12.pdf)
 	           
 
 ## Other Competitions
