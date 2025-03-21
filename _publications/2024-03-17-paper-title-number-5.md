@@ -6,7 +6,7 @@ permalink: /publication/2024-03-17-paper-title-number-5
 excerpt: 'This paper develops online algorithms for a multi-player resource-sharing game with bandit feedback.'
 date: 2024-02-07
 venue: 'arXiv preprint'
-paperurl: 'http://mevanwijewardena.github.io/files/paper5.pdf'
+paperurl: 'https://mevanwijewardena.github.io/files/paper5.pdf'
 citation: 'Wijewardena, M., & Neely, M. (2024). Multi-Player Resource-Sharing Games with Fair Reward Allocation. arXiv preprint arXiv:2402.05300.'
 ---
 
