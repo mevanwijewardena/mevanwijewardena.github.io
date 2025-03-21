@@ -11,4 +11,4 @@ I am a Ph.D. student in Electrical Engineering at the University of Southern Cal
 
 Before USC, I completed my Bachelor's Degree in Electronic and Telecommunication Engineering at the University of Moratuwa, Sri Lanka. My undergraduate advisors were Dr. Tharaka Samarasinghe, Dr. Subodha Charles and Dr. Kasun Hemchandra.
 
-Download my CV [here](http://mevanwijewardena.github.io/files/Mevan_CV.pdf)
+Download my CV [here](https://mevanwijewardena.github.io/files/Mevan_CV.pdf)
