@@ -6,7 +6,9 @@ author_profile: true
 ---
 ## Paper reviewing
 
-1. IEEE EMBS International Student Conference 2021(Reviewer ID - R015).
+1. IEEE/ACM Transactions on Networking.
+2. Moratuwa Engineering Research Conference (MERCon) 2025.
+3. IEEE EMBS International Student Conference 2021(Reviewer ID - R015).
 
 ## Workshops
 
