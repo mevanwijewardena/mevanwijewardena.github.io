@@ -7,4 +7,7 @@ venue: "University of Southern California, Department of Electrical and Computer
 location: "Los Angeles, California"
 ---
 
-1. EE512 - Stochastic Processes for Financial Engineering: Teaching assistant for instructor Prof. George Papavassilopoulos (Fall '23, '24, Spring '24, '25)
+1. EE 512 - Stochastic Processes for Financial Engineering: Teaching assistant for instructor Prof. George Papavassilopoulos (Fall '23, '24, Spring '24, '25)
+2. EE EES- Applied Linear Algebra for Engineering: Course Producer for instructor Prof. Antonio Ortega (Summer’24)
+3. EE 450 - Introduction to Computer Networks: Teaching assistant for instructor Prof. Shahin Nazarian (Summer' 25)
+4. EE538 - Computing Principles for Electrical Engineers: Teaching assistant for instructor Prof. Arash Saifhashemi (Summer '25)
