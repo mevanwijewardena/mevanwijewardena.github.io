@@ -341,7 +341,7 @@ button:focus-visible {
 .home-proof {
   display: grid;
   max-width: 680px;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   margin-top: 48px;
   border-top: 1px solid var(--mw-rule);
   border-bottom: 1px solid var(--mw-rule);
@@ -1098,6 +1098,7 @@ button:focus-visible {
   max-width: 1200px;
   grid-template-columns: 250px minmax(0, 1fr);
   gap: 72px;
+  align-items: start;
   margin: 0 auto;
   padding: 92px 32px 110px;
 }
@@ -1112,7 +1113,19 @@ button:focus-visible {
 }
 
 #main .sidebar {
+  position: sticky !important;
+  top: 104px;
+  grid-column: 1;
+  grid-row: 1;
+  align-self: start;
   opacity: 1;
+}
+
+#main .archive,
+#main .page {
+  min-width: 0;
+  grid-column: 2;
+  grid-row: 1;
 }
 
 .author__avatar img {
@@ -1347,6 +1360,11 @@ button:focus-visible {
 
   #main .sidebar {
     display: none;
+  }
+
+  #main .archive,
+  #main .page {
+    grid-column: 1;
   }
 }
 
