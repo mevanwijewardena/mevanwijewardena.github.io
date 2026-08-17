@@ -1,3 +1,16 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var themeControl = document.querySelector('.theme-toggle__button');
+    if (themeControl) {
+      themeControl.addEventListener('keydown', function (event) {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault();
+          themeControl.click();
+        }
+      });
+    }
+  });
+</script>
