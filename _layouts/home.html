@@ -1,0 +1,284 @@
+---
+layout: default
+---
+
+{% include base_path %}
+{% assign selected_publications = site.publications | sort: "date" | reverse %}
+
+<main id="main-content" class="portfolio-home">
+  <section class="home-hero" aria-labelledby="hero-title">
+    <div class="home-shell home-hero__grid">
+      <div class="home-hero__copy">
+        <p class="eyebrow hero-reveal hero-reveal--1">PhD candidate <span>·</span> Electrical Engineering <span>·</span> USC</p>
+        <h1 id="hero-title" class="hero-reveal hero-reveal--2">Adaptive algorithms for systems that <em>do not stand still.</em></h1>
+        <p class="home-hero__lead hero-reveal hero-reveal--3">I work at the intersection of stochastic control, online learning, game theory, and networking—designing methods that learn from partial feedback while remaining fair and adaptive.</p>
+
+        <div class="home-actions hero-reveal hero-reveal--4">
+          <a class="home-button home-button--primary" href="#publications">View selected work <span aria-hidden="true">&#8594;</span></a>
+          <a class="home-button home-button--secondary" href="{{ '/files/Mevan_CV.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV <span aria-hidden="true">&#8599;</span></a>
+        </div>
+
+        <div class="home-proof hero-reveal hero-reveal--5" aria-label="Highlights">
+          <div><strong>4.0</strong><span>USC PhD GPA</span></div>
+          <div><strong>4×</strong><span>IMO bronze medalist</span></div>
+          <div><strong>2025</strong><span>WiOpt + journal publications</span></div>
+        </div>
+      </div>
+
+      <div class="home-hero__visual hero-reveal hero-reveal--3" aria-label="Adaptive network research illustration">
+        <div class="system-card">
+          <div class="system-card__topline">
+            <span>Adaptive network / 01</span>
+            <span class="system-status"><i aria-hidden="true"></i> Learning online</span>
+          </div>
+
+          <svg class="system-map" viewBox="0 0 620 520" role="img" aria-labelledby="network-title network-desc">
+            <title id="network-title">Adaptive network under partial feedback</title>
+            <desc id="network-desc">A controller routes decisions through uncertain links toward a fair system objective.</desc>
+            <g class="system-grid" aria-hidden="true">
+              <path d="M40 80H580M40 180H580M40 280H580M40 380H580M40 480H580" />
+              <path d="M80 40V500M180 40V500M280 40V500M380 40V500M480 40V500M580 40V500" />
+            </g>
+            <g class="system-rings" aria-hidden="true">
+              <circle cx="310" cy="265" r="190" />
+              <circle cx="310" cy="265" r="118" />
+              <circle cx="310" cy="265" r="54" />
+            </g>
+            <g class="system-paths" aria-hidden="true">
+              <path class="network-line network-line--1" d="M88 360 C160 340, 178 230, 260 258 S390 320, 518 142" />
+              <path class="network-line network-line--2" d="M92 138 C190 182, 202 320, 310 265 S432 182, 542 336" />
+              <path class="network-line network-line--3" d="M160 438 C224 398, 258 390, 310 265 S380 118, 474 92" />
+            </g>
+            <g class="system-nodes" aria-hidden="true">
+              <circle class="node node--quiet" cx="92" cy="138" r="10" />
+              <circle class="node" cx="88" cy="360" r="13" />
+              <circle class="node node--quiet" cx="160" cy="438" r="9" />
+              <circle class="node node--core" cx="310" cy="265" r="20" />
+              <circle class="node node--accent" cx="518" cy="142" r="14" />
+              <circle class="node" cx="542" cy="336" r="11" />
+              <circle class="node node--quiet" cx="474" cy="92" r="8" />
+            </g>
+            <g class="system-labels" aria-hidden="true">
+              <text x="65" y="116">partial feedback</text>
+              <text x="252" y="236">policy</text>
+              <text x="470" y="118">fair utility</text>
+              <text x="482" y="367">uncertain link</text>
+              <text x="116" y="468">t = 1, 2, …</text>
+            </g>
+          </svg>
+
+          <div class="system-card__metrics">
+            <div><span>Objective</span><strong>Utility + fairness</strong></div>
+            <div><span>Feedback</span><strong>Bandit / partial</strong></div>
+            <div><span>Environment</span><strong>Time-varying</strong></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="research" class="home-section home-section--research" aria-labelledby="research-title">
+    <div class="home-shell">
+      <div class="section-heading">
+        <p class="eyebrow">Research / focus</p>
+        <h2 id="research-title">Making uncertainty mathematically manageable.</h2>
+        <p>I build algorithms for networked systems where decisions must be made before the environment is fully known.</p>
+      </div>
+
+      <div class="research-grid">
+        <article class="research-card">
+          <span class="research-card__number">01</span>
+          <h3>Adaptive networks</h3>
+          <p>Policies that keep learning when channels, users, rewards, or capacities change over time.</p>
+          <span class="research-card__tag">Networks</span>
+        </article>
+        <article class="research-card">
+          <span class="research-card__number">02</span>
+          <h3>Bandits &amp; partial feedback</h3>
+          <p>Online methods that learn useful decisions from success/failure signals and limited observations.</p>
+          <span class="research-card__tag">Learning</span>
+        </article>
+        <article class="research-card">
+          <span class="research-card__number">03</span>
+          <h3>Stochastic control</h3>
+          <p>Queueing, drift-plus-penalty, and utility optimization with performance guarantees.</p>
+          <span class="research-card__tag">Control</span>
+        </article>
+        <article class="research-card">
+          <span class="research-card__number">04</span>
+          <h3>Games &amp; fairness</h3>
+          <p>Robust decisions for multi-agent systems with asymmetric information and competing incentives.</p>
+          <span class="research-card__tag">Multi-agent</span>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="publications" class="home-section home-section--publications" aria-labelledby="publications-title">
+    <div class="home-shell">
+      <div class="section-heading section-heading--split">
+        <div>
+          <p class="eyebrow">Selected work / recent</p>
+          <h2 id="publications-title">Research with proofs—and a path to practice.</h2>
+        </div>
+        <a class="text-link" href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">&#8594;</span></a>
+      </div>
+
+      <div class="publication-list">
+        {% for post in selected_publications limit:4 %}
+          <article class="publication-row">
+            <div class="publication-row__meta">
+              <span>{{ post.date | date: "%Y" }}</span>
+              <span>{{ post.venue | default: post.category }}</span>
+            </div>
+            <div class="publication-row__body">
+              <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+              <p>{{ post.excerpt }}</p>
+            </div>
+            <div class="publication-row__links">
+              {% if post.paperurl %}<a href="{{ post.paperurl }}" aria-label="Read {{ post.title }}">Paper <span aria-hidden="true">&#8599;</span></a>{% endif %}
+              {% if post.slidesurl %}<a href="{{ post.slidesurl }}" aria-label="View slides for {{ post.title }}">Slides <span aria-hidden="true">&#8599;</span></a>{% endif %}
+            </div>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section id="experience" class="home-section home-section--experience" aria-labelledby="experience-title">
+    <div class="home-shell experience-layout">
+      <div class="section-heading section-heading--sticky">
+        <p class="eyebrow">Experience / trajectory</p>
+        <h2 id="experience-title">Researcher, educator, problem solver.</h2>
+        <p>From mathematical olympiads to adaptive network algorithms, the throughline is the same: find structure in difficult problems and make it useful.</p>
+        <a class="text-link" href="{{ '/files/Mevan_CV.pdf' | relative_url }}" target="_blank" rel="noopener">Full curriculum vitae <span aria-hidden="true">&#8599;</span></a>
+      </div>
+
+      <div class="timeline">
+        <article class="timeline-item">
+          <div class="timeline-item__date">2022—Present</div>
+          <div>
+            <p class="timeline-item__type">Education &amp; research</p>
+            <h3>PhD in Electrical Engineering</h3>
+            <p class="timeline-item__place">University of Southern California · Los Angeles</p>
+            <p>Advised by Professor Michael J. Neely. Research in adaptive network optimization, stochastic control, online learning, and multi-agent systems.</p>
+          </div>
+        </article>
+        <article class="timeline-item">
+          <div class="timeline-item__date">2023—Present</div>
+          <div>
+            <p class="timeline-item__type">Teaching</p>
+            <h3>Teaching Assistant</h3>
+            <p class="timeline-item__place">USC · Electrical and Computer Engineering</p>
+            <p>Stochastic processes, financial engineering mathematics, computer networks, computing principles, and applied linear algebra.</p>
+            <a class="text-link text-link--small" href="{{ '/teaching/' | relative_url }}">Teaching record <span aria-hidden="true">&#8594;</span></a>
+          </div>
+        </article>
+        <article class="timeline-item">
+          <div class="timeline-item__date">2021—2022</div>
+          <div>
+            <p class="timeline-item__type">Academic experience</p>
+            <h3>Lecturer on Contract</h3>
+            <p class="timeline-item__place">University of Moratuwa · Sri Lanka</p>
+            <p>Taught and designed laboratory work across communications, random processes, electronics, and computer organization.</p>
+          </div>
+        </article>
+        <article class="timeline-item">
+          <div class="timeline-item__date">2016—2021</div>
+          <div>
+            <p class="timeline-item__type">Education</p>
+            <h3>BSc Engineering, First Class Honours</h3>
+            <p class="timeline-item__place">University of Moratuwa · Rank 5 of 101</p>
+            <p>Electronic and Telecommunication Engineering, with research spanning wireless security, HCI, and non-intrusive load monitoring.</p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section home-section--about" aria-labelledby="about-title">
+    <div class="home-shell about-layout">
+      <div class="about-portrait">
+        <img src="{{ '/images/profile.png' | relative_url }}" alt="Mevan Wijewardena" width="250" height="250" loading="lazy">
+        <div class="about-portrait__caption">
+          <span>Based in</span>
+          <strong>Los Angeles, California</strong>
+        </div>
+      </div>
+      <div class="about-copy">
+        <p class="eyebrow">About / approach</p>
+        <h2 id="about-title">Theory is most interesting when it changes what a system can do.</h2>
+        <div class="about-copy__body">{{ content }}</div>
+        <div class="about-links" aria-label="Profile links">
+          <a href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">&#8599;</span></a>
+          <a href="https://github.com/{{ site.author.github }}">GitHub <span aria-hidden="true">&#8599;</span></a>
+          <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn <span aria-hidden="true">&#8599;</span></a>
+          <a href="{{ site.author.orcid }}">ORCID <span aria-hidden="true">&#8599;</span></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section home-section--awards" aria-labelledby="awards-title">
+    <div class="home-shell">
+      <div class="awards-lead">
+        <p class="eyebrow">Selected distinctions</p>
+        <h2 id="awards-title">A lifelong practice of solving hard problems.</h2>
+      </div>
+      <div class="awards-grid">
+        <article class="award-card award-card--primary">
+          <strong>4×</strong>
+          <h3>International Mathematical Olympiad</h3>
+          <p>Bronze medals in 2012, 2013, 2014, and 2016.</p>
+        </article>
+        <article class="award-card">
+          <span class="award-card__year">2016</span>
+          <h3>APMO Silver Medal</h3>
+          <p>Asia Pacific Mathematical Olympiad.</p>
+        </article>
+        <article class="award-card">
+          <span class="award-card__year">2020</span>
+          <h3>IEEExtreme</h3>
+          <p>World rank 52 and country rank 1.</p>
+        </article>
+        <article class="award-card">
+          <span class="award-card__year">2012—16</span>
+          <h3>SLMO Gold</h3>
+          <p>Four Sri Lanka Mathematical Olympiad gold medals.</p>
+        </article>
+      </div>
+      <a class="text-link" href="{{ '/achievements/' | relative_url }}">View all achievements <span aria-hidden="true">&#8594;</span></a>
+    </div>
+  </section>
+
+  <section class="home-section home-section--beyond" aria-labelledby="beyond-title">
+    <div class="home-shell beyond-layout">
+      <div>
+        <p class="eyebrow">Beyond the papers</p>
+        <h2 id="beyond-title">Strong systems need range.</h2>
+      </div>
+      <div class="beyond-grid">
+        <a href="{{ '/services/' | relative_url }}" class="beyond-card">
+          <span>Service</span>
+          <h3>Reviewer, workshop instructor, and problem setter</h3>
+          <p>IEEE/ACM Transactions on Networking, MERCon, programming workshops, and competition design.</p>
+          <i aria-hidden="true">&#8594;</i>
+        </a>
+        <a href="{{ '/interests/' | relative_url }}" class="beyond-card">
+          <span>Outside research</span>
+          <h3>Music, powerlifting, and competitive programming</h3>
+          <p>Recording cover songs, training the big three, and solving algorithmic problems.</p>
+          <i aria-hidden="true">&#8594;</i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-contact" aria-labelledby="contact-title">
+    <div class="home-shell home-contact__inner">
+      <p class="eyebrow">Contact / collaborate</p>
+      <h2 id="contact-title">Interested in adaptive systems, online learning, or research with real operational constraints?</h2>
+      <a class="home-button home-button--light" href="mailto:{{ site.author.email }}">Start a conversation <span aria-hidden="true">&#8594;</span></a>
+    </div>
+  </section>
+</main>
