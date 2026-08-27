@@ -11,6 +11,10 @@ author_profile: true
 3. Moratuwa Engineering Research Conference (MERCon) 2025.
 4. IEEE EMBS International Student Conference 2021(Reviewer ID - R015).
 
+## Conference Organization
+
+1. Volunteer for the 8th Learning for Dynamics & Control Conference (L4DC 2026) and the 3rd International Conference on Neuro-Symbolic Systems (NeuS 2026).
+
 ## Workshops
 
 1. Problem solving techniques workshop for YarlXtreme 1.0 in 2024 (An algorithmic programming competition), a pre-Xtreme campaign organized by the IEEE Student Branch, University of Jaffna.
@@ -24,6 +28,5 @@ author_profile: true
 
 1. Problem setter for uMora 2020, the annual online mathematics competition organized by the Electronic Club (E-Club), University of Moratuwa.
 2. Problem setter for MoraXtreme 2019, the annual algorithmic programming competition organized by Computer Society - IEEE University of Moratuwa Student Branch.
-
 
 
