@@ -9,69 +9,57 @@ layout: default
   <section class="home-hero" aria-labelledby="hero-title">
     <div class="home-shell home-hero__grid">
       <div class="home-hero__copy">
-        <p class="eyebrow hero-reveal hero-reveal--1">PhD candidate <span>·</span> Electrical Engineering <span>·</span> USC</p>
-        <h1 id="hero-title" class="hero-reveal hero-reveal--2">Adaptive algorithms for systems that <em>do not stand still.</em></h1>
-        <p class="home-hero__lead hero-reveal hero-reveal--3">I work at the intersection of stochastic control, online learning, game theory, and networking. I design methods that learn from partial feedback while remaining fair and adaptive.</p>
+        <p class="eyebrow hero-reveal hero-reveal--1">Stochastic systems <span>·</span> Online learning <span>·</span> Networks</p>
+        <h1 id="hero-title" class="hero-reveal hero-reveal--2">Mevan Wijewardena</h1>
+        <p class="home-hero__role hero-reveal hero-reveal--3">PhD Candidate in Electrical Engineering <span>University of Southern California</span></p>
+        <h2 class="home-hero__statement hero-reveal hero-reveal--3">Learning and control for adaptive stochastic systems.</h2>
+        <p class="home-hero__lead hero-reveal hero-reveal--3">My research combines stochastic optimization, bandit learning, and game theory to design provably efficient methods for systems with partial feedback.</p>
 
         <div class="home-actions hero-reveal hero-reveal--4">
-          <a class="home-button home-button--primary" href="#publications">View selected work <span aria-hidden="true">&#8594;</span></a>
+          <a class="home-button home-button--primary" href="mailto:{{ site.author.email }}">Email me <span aria-hidden="true">&#8594;</span></a>
           <a class="home-button home-button--secondary" href="{{ '/files/Mevan_CV.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV <span aria-hidden="true">&#8599;</span></a>
+          <a class="home-button home-button--text" href="#publications">Selected work <span aria-hidden="true">&#8595;</span></a>
         </div>
 
         <div class="home-proof hero-reveal hero-reveal--5" aria-label="Highlights">
           <div><strong>4×</strong><span>IMO bronze medalist</span></div>
-          <div><strong>Optimization • ML • Game Theory</strong><span>Research interests</span></div>
+          <div><strong>Music + powerlifting</strong><span>Outside research</span></div>
         </div>
       </div>
 
-      <div class="home-hero__visual hero-reveal hero-reveal--3" aria-label="Adaptive network research illustration">
-        <div class="system-card">
-          <div class="system-card__topline">
-            <span>Adaptive network / 01</span>
-            <span class="system-status"><i aria-hidden="true"></i> Learning online</span>
+      <div class="home-hero__visual hero-reveal hero-reveal--3" aria-label="Profile details">
+        <aside class="home-profile-card">
+          <div class="home-profile-card__portrait">
+            <img src="{{ '/images/profile.png' | relative_url }}" alt="Mevan Wijewardena" width="225" height="225">
           </div>
-
-          <svg class="system-map" viewBox="0 0 620 520" role="img" aria-labelledby="network-title network-desc">
-            <title id="network-title">Adaptive network under partial feedback</title>
-            <desc id="network-desc">A controller routes decisions through uncertain links toward a fair system objective.</desc>
-            <g class="system-grid" aria-hidden="true">
-              <path d="M40 80H580M40 180H580M40 280H580M40 380H580M40 480H580" />
-              <path d="M80 40V500M180 40V500M280 40V500M380 40V500M480 40V500M580 40V500" />
-            </g>
-            <g class="system-rings" aria-hidden="true">
-              <circle cx="310" cy="265" r="190" />
-              <circle cx="310" cy="265" r="118" />
-              <circle cx="310" cy="265" r="54" />
-            </g>
-            <g class="system-paths" aria-hidden="true">
-              <path class="network-line network-line--1" d="M88 360 C160 340, 178 230, 260 258 S390 320, 518 142" />
-              <path class="network-line network-line--2" d="M92 138 C190 182, 202 320, 310 265 S432 182, 542 336" />
-              <path class="network-line network-line--3" d="M160 438 C224 398, 258 390, 310 265 S380 118, 474 92" />
-            </g>
-            <g class="system-nodes" aria-hidden="true">
-              <circle class="node node--quiet" cx="92" cy="138" r="10" />
-              <circle class="node" cx="88" cy="360" r="13" />
-              <circle class="node node--quiet" cx="160" cy="438" r="9" />
-              <circle class="node node--core" cx="310" cy="265" r="20" />
-              <circle class="node node--accent" cx="518" cy="142" r="14" />
-              <circle class="node" cx="542" cy="336" r="11" />
-              <circle class="node node--quiet" cx="474" cy="92" r="8" />
-            </g>
-            <g class="system-labels" aria-hidden="true">
-              <text x="65" y="116">partial feedback</text>
-              <text x="252" y="236">policy</text>
-              <text x="470" y="118">fair utility</text>
-              <text x="482" y="367">uncertain link</text>
-              <text x="116" y="468">t = 1, 2, …</text>
-            </g>
-          </svg>
-
-          <div class="system-card__metrics">
-            <div><span>Objective</span><strong>Utility + fairness</strong></div>
-            <div><span>Feedback</span><strong>Bandit / partial</strong></div>
-            <div><span>Environment</span><strong>Time-varying</strong></div>
+          <div class="home-profile-card__body">
+            <p class="home-profile-card__label">Profile</p>
+            <dl>
+              <div>
+                <dt>Affiliation</dt>
+                <dd>USC · Electrical and Computer Engineering</dd>
+              </div>
+              <div>
+                <dt>Advisor</dt>
+                <dd><a href="https://viterbi-web.usc.edu/~mjneely/">Prof. Michael J. Neely</a></dd>
+              </div>
+              <div>
+                <dt>Location</dt>
+                <dd>Los Angeles, California</dd>
+              </div>
+              <div>
+                <dt>Email</dt>
+                <dd><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></dd>
+              </div>
+            </dl>
+            <div class="home-profile-card__links" aria-label="Academic and professional profiles">
+              <a href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">&#8599;</span></a>
+              <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn <span aria-hidden="true">&#8599;</span></a>
+              <a href="https://github.com/{{ site.author.github }}">GitHub <span aria-hidden="true">&#8599;</span></a>
+              <a href="{{ site.author.orcid }}">ORCID <span aria-hidden="true">&#8599;</span></a>
+            </div>
           </div>
-        </div>
+        </aside>
       </div>
     </div>
   </section>
@@ -118,7 +106,7 @@ layout: default
       <div class="section-heading section-heading--split">
         <div>
           <p class="eyebrow">Selected work / recent</p>
-          <h2 id="publications-title">Research with proofs and a path to practice.</h2>
+          <h2 id="publications-title">Research with proofs—and a path to practice.</h2>
         </div>
         <a class="text-link" href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">&#8594;</span></a>
       </div>
@@ -196,24 +184,11 @@ layout: default
   </section>
 
   <section class="home-section home-section--about" aria-labelledby="about-title">
-    <div class="home-shell about-layout">
-      <div class="about-portrait">
-        <img src="{{ '/images/profile.png' | relative_url }}" alt="Mevan Wijewardena" width="250" height="250" loading="lazy">
-        <div class="about-portrait__caption">
-          <span>Based in</span>
-          <strong>Los Angeles, California</strong>
-        </div>
-      </div>
+    <div class="home-shell about-layout about-layout--text">
       <div class="about-copy">
         <p class="eyebrow">About / approach</p>
         <h2 id="about-title">Theory is most interesting when it changes what a system can do.</h2>
         <div class="about-copy__body">{{ content }}</div>
-        <div class="about-links" aria-label="Profile links">
-          <a href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">&#8599;</span></a>
-          <a href="https://github.com/{{ site.author.github }}">GitHub <span aria-hidden="true">&#8599;</span></a>
-          <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn <span aria-hidden="true">&#8599;</span></a>
-          <a href="{{ site.author.orcid }}">ORCID <span aria-hidden="true">&#8599;</span></a>
-        </div>
       </div>
     </div>
   </section>
