@@ -396,15 +396,31 @@ button:focus-visible {
 }
 
 .home-profile-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px 24px;
-  margin-top: 22px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px 18px;
+  margin-top: 12px;
+  padding: 20px;
+  border: 1px solid var(--mw-rule);
+  background: var(--mw-card-bg);
+}
+
+.home-profile-links__label {
+  grid-column: 1 / -1;
+  margin-bottom: 3px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--mw-rule-soft);
+  color: var(--mw-blue);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .home-profile-links a {
   color: var(--mw-ink);
-  font-size: 0.77rem;
+  font-size: 0.7rem;
   font-weight: 700;
   text-decoration: none;
 }
