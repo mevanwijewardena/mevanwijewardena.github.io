@@ -21,14 +21,6 @@ layout: default
           <a class="home-button home-button--text" href="#publications">Selected work <span aria-hidden="true">&#8595;</span></a>
         </div>
 
-        <div class="home-profile-links hero-reveal hero-reveal--4" aria-label="Academic and professional profiles">
-          <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">&#8599;</span></a>
-          <a href="{{ site.author.orcid }}" target="_blank" rel="noopener">ORCID <span aria-hidden="true">&#8599;</span></a>
-          <a href="{{ site.author.researchgate }}" target="_blank" rel="noopener">ResearchGate <span aria-hidden="true">&#8599;</span></a>
-          <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub <span aria-hidden="true">&#8599;</span></a>
-          <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn <span aria-hidden="true">&#8599;</span></a>
-        </div>
-
         <div class="home-research-interests hero-reveal hero-reveal--5" aria-label="Research interests">
           <span>Research interests</span>
           <ul>
@@ -42,6 +34,14 @@ layout: default
 
       <div class="home-hero__visual hero-reveal hero-reveal--3">
         <img class="home-hero__portrait" src="{{ '/images/profile.png' | relative_url }}" alt="Mevan Wijewardena" width="225" height="225">
+        <div class="home-profile-links" aria-label="Academic and professional profiles">
+          <span class="home-profile-links__label">Academic &amp; professional profiles</span>
+          <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">&#8599;</span></a>
+          <a href="{{ site.author.orcid }}" target="_blank" rel="noopener">ORCID <span aria-hidden="true">&#8599;</span></a>
+          <a href="{{ site.author.researchgate }}" target="_blank" rel="noopener">ResearchGate <span aria-hidden="true">&#8599;</span></a>
+          <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub <span aria-hidden="true">&#8599;</span></a>
+          <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn <span aria-hidden="true">&#8599;</span></a>
+        </div>
       </div>
     </div>
   </section>
