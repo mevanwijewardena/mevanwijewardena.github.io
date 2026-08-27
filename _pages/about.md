@@ -9,6 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Electrical Engineering at the University of Southern California, advised by Professor [Michael J. Neely](https://viterbi-web.usc.edu/~mjneely/). My research develops adaptive algorithms for stochastic systems with partial feedback, with particular emphasis on fairness, changing environments, and information asymmetry among agents.
+I am a Ph.D. candidate in Electrical Engineering at the University of Southern California, advised by Professor [Michael J. Neely](https://viterbi-web.usc.edu/~mjneely/). My research develops mathematically rigorous algorithms for optimization and sequential decision-making under uncertainty, drawing on stochastic optimization, stochastic control, bandit learning, online learning, and game theory. I am particularly interested in non-stationarity, fairness, and information asymmetry.
 
 Before joining USC, I earned a First Class Honours bachelor's degree in Electronic and Telecommunication Engineering from the University of Moratuwa, Sri Lanka. I enjoy turning mathematical structure into algorithms that are provable, adaptive, and useful in real networked systems.
