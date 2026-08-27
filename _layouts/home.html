@@ -9,11 +9,11 @@ layout: default
   <section class="home-hero" aria-labelledby="hero-title">
     <div class="home-shell home-hero__grid">
       <div class="home-hero__copy">
-        <p class="eyebrow hero-reveal hero-reveal--1">Stochastic systems <span>·</span> Online learning <span>·</span> Networks</p>
+        <p class="eyebrow hero-reveal hero-reveal--1">Electrical Engineering <span>·</span> University of Southern California</p>
         <h1 id="hero-title" class="hero-reveal hero-reveal--2">Mevan Wijewardena</h1>
         <p class="home-hero__role hero-reveal hero-reveal--3">PhD Candidate in Electrical Engineering <span>University of Southern California</span></p>
-        <h2 class="home-hero__statement hero-reveal hero-reveal--3">Learning and control for adaptive stochastic systems.</h2>
-        <p class="home-hero__lead hero-reveal hero-reveal--3">My research combines stochastic optimization, bandit learning, and game theory to design provably efficient methods for systems with partial feedback.</p>
+        <h2 class="home-hero__statement hero-reveal hero-reveal--3">Theory is most interesting when it changes what a system can do.</h2>
+        <div class="home-hero__bio hero-reveal hero-reveal--3">{{ content }}</div>
 
         <div class="home-actions hero-reveal hero-reveal--4">
           <a class="home-button home-button--primary" href="mailto:{{ site.author.email }}">Email me <span aria-hidden="true">&#8594;</span></a>
@@ -21,45 +21,27 @@ layout: default
           <a class="home-button home-button--text" href="#publications">Selected work <span aria-hidden="true">&#8595;</span></a>
         </div>
 
-        <div class="home-proof hero-reveal hero-reveal--5" aria-label="Highlights">
-          <div><strong>4×</strong><span>IMO bronze medalist</span></div>
-          <div><strong>Music + powerlifting</strong><span>Outside research</span></div>
+        <div class="home-profile-links hero-reveal hero-reveal--4" aria-label="Academic and professional profiles">
+          <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">&#8599;</span></a>
+          <a href="{{ site.author.orcid }}" target="_blank" rel="noopener">ORCID <span aria-hidden="true">&#8599;</span></a>
+          <a href="{{ site.author.researchgate }}" target="_blank" rel="noopener">ResearchGate <span aria-hidden="true">&#8599;</span></a>
+          <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub <span aria-hidden="true">&#8599;</span></a>
+          <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn <span aria-hidden="true">&#8599;</span></a>
+        </div>
+
+        <div class="home-research-interests hero-reveal hero-reveal--5" aria-label="Research interests">
+          <span>Research interests</span>
+          <ul>
+            <li>Stochastic optimization</li>
+            <li>Online learning</li>
+            <li>Stochastic control</li>
+            <li>Game theory</li>
+          </ul>
         </div>
       </div>
 
-      <div class="home-hero__visual hero-reveal hero-reveal--3" aria-label="Profile details">
-        <aside class="home-profile-card">
-          <div class="home-profile-card__portrait">
-            <img src="{{ '/images/profile.png' | relative_url }}" alt="Mevan Wijewardena" width="225" height="225">
-          </div>
-          <div class="home-profile-card__body">
-            <p class="home-profile-card__label">Profile</p>
-            <dl>
-              <div>
-                <dt>Affiliation</dt>
-                <dd>USC · Electrical and Computer Engineering</dd>
-              </div>
-              <div>
-                <dt>Advisor</dt>
-                <dd><a href="https://viterbi-web.usc.edu/~mjneely/">Prof. Michael J. Neely</a></dd>
-              </div>
-              <div>
-                <dt>Location</dt>
-                <dd>Los Angeles, California</dd>
-              </div>
-              <div>
-                <dt>Email</dt>
-                <dd><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></dd>
-              </div>
-            </dl>
-            <div class="home-profile-card__links" aria-label="Academic and professional profiles">
-              <a href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">&#8599;</span></a>
-              <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn <span aria-hidden="true">&#8599;</span></a>
-              <a href="https://github.com/{{ site.author.github }}">GitHub <span aria-hidden="true">&#8599;</span></a>
-              <a href="{{ site.author.orcid }}">ORCID <span aria-hidden="true">&#8599;</span></a>
-            </div>
-          </div>
-        </aside>
+      <div class="home-hero__visual hero-reveal hero-reveal--3">
+        <img class="home-hero__portrait" src="{{ '/images/profile.png' | relative_url }}" alt="Mevan Wijewardena" width="225" height="225">
       </div>
     </div>
   </section>
@@ -179,16 +161,6 @@ layout: default
             <p>Electronic and Telecommunication Engineering, with research spanning wireless security, HCI, and non-intrusive load monitoring.</p>
           </div>
         </article>
-      </div>
-    </div>
-  </section>
-
-  <section class="home-section home-section--about" aria-labelledby="about-title">
-    <div class="home-shell about-layout about-layout--text">
-      <div class="about-copy">
-        <p class="eyebrow">About / approach</p>
-        <h2 id="about-title">Theory is most interesting when it changes what a system can do.</h2>
-        <div class="about-copy__body">{{ content }}</div>
       </div>
     </div>
   </section>
